@@ -1,0 +1,78 @@
+[
+  {
+    "location": "existing_lint_error.py:21",
+    "parent_location": "existing_lint_error.py:31",
+    "name": "another_func",
+    "arguments": {},
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "missing_colon.py:8",
+    "parent_location": "existing_lint_error.py:22",
+    "name": "division",
+    "arguments": {
+      "a": 10,
+      "b": 2
+    },
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "missing_colon.py:5",
+    "parent_location": "missing_colon.py:10",
+    "name": "add",
+    "arguments": {
+      "a": 10,
+      "b": 2
+    },
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "test_tribonaccy.py:2",
+    "parent_location": "missing_colon.py:6",
+    "name": "test_tribonacci",
+    "arguments": {},
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "missing_colon.py:5",
+    "parent_location": "missing_colon.py:10",
+    "name": "add",
+    "arguments": {
+      "a": 10,
+      "b": 1
+    },
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "test_tribonaccy.py:2",
+    "parent_location": "missing_colon.py:6",
+    "name": "test_tribonacci",
+    "arguments": {},
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "existing_lint_error.py:17",
+    "parent_location": "existing_lint_error.py:32",
+    "name": "do_division",
+    "arguments": {
+      "a": 123,
+      "b": 15
+    },
+    "depth": 0,
+    "is_external": false
+  },
+  {
+    "location": "existing_lint_error.py:14",
+    "parent_location": "existing_lint_error.py:18",
+    "name": "f821",
+    "arguments": {},
+    "depth": 0,
+    "is_external": false
+  }
+]
