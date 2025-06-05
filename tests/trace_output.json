@@ -1,7 +1,7 @@
 [
   {
-    "location": "existing_lint_error.py:21",
-    "parent_location": "existing_lint_error.py:31",
+    "location": "main.py:21",
+    "parent_location": "main.py:31",
     "name": "another_func",
     "arguments": {},
     "depth": 0,
@@ -9,7 +9,7 @@
   },
   {
     "location": "missing_colon.py:8",
-    "parent_location": "existing_lint_error.py:22",
+    "parent_location": "main.py:22",
     "name": "division",
     "arguments": {
       "a": 10,
@@ -57,8 +57,8 @@
     "is_external": false
   },
   {
-    "location": "existing_lint_error.py:17",
-    "parent_location": "existing_lint_error.py:32",
+    "location": "main.py:17",
+    "parent_location": "main.py:32",
     "name": "do_division",
     "arguments": {
       "a": 123,
@@ -68,8 +68,8 @@
     "is_external": false
   },
   {
-    "location": "existing_lint_error.py:14",
-    "parent_location": "existing_lint_error.py:18",
+    "location": "main.py:14",
+    "parent_location": "main.py:18",
     "name": "f821",
     "arguments": {},
     "depth": 0,
