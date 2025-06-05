@@ -5,7 +5,7 @@ lint error in the codebase.
 """
 import os
 import sys
-tracer_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../execution-tracing/src"))
+tracer_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../execution-tracing/src"))
 sys.path.insert(0, tracer_path)
 from missing_colon import division
 from tracer.core import start_tracing, stop_tracing
