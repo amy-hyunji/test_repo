@@ -1,3 +1,10 @@
-# swe-agent-test-repo
+# test-repo
 
-A repository with some super-simple python issues and corresponding github issues. To be used to test [swe-agent](https://github.com/princeton-nlp/SWE-agent/).
+This repository contains a simple Python script to test the performance on tracing.
+
+### Usage
+```sh
+python main.py
+```
+
+This will generate `trace_output.json` which is the tracing result when running `main.py`
